@@ -10,3 +10,9 @@ Assistant Professor at Simmons University
 
 ### Research
 Fitbit research
+
+## Images
+![Image](/assests/img/Simmons_Logo.png)
+
+## Links
+[Project](https://github.com/trichtil/Project1/tree/main)
